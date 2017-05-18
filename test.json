@@ -1,0 +1,21 @@
+{
+  "data": "is string",
+  "number": 2,
+  "floatnumber": 3.1,
+  "nested": {
+    "ndata": "is string",
+    "nnumber": 2,
+    "nfloatnumber": 3.1,
+    "nested2": {
+      "ndata2": "is string too",
+      "nnumber2": 23,
+      "nfloatnumber2": 33.1
+    },
+    "nested21": {
+      "ndata21": "is string too",
+      "nnumber21": 23,
+      "nfloatnumber21": 33.1
+    },
+    "balle":"hank"
+  }
+}
