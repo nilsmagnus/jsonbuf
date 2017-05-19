@@ -4,6 +4,8 @@ This is work in progress.
 
 Translates JSON into a Protobuf messages. Check it out!
 
+https://nilsmagnus.github.io/jsonbuf/
+
 This is a sister tool to json-to-Go(https://github.com/mholt/json-to-go), which converts json to Go structs.
 
 Things to note:
